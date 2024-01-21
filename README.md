@@ -9,7 +9,7 @@ python==3.9.18
 
 # How to use
 if your cuda is available, you can 
-run ./code/main.py --gpu --enable_augmentation --enable_gumbel
+run python ./code/main.py --gpu --enable_augmentation --enable_gumbel
 
 else 
-run ./code/main.py --enable_augmentation --enable_gumbel
+run python ./code/main.py --enable_augmentation --enable_gumbel
