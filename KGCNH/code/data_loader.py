@@ -24,7 +24,7 @@ class DataProcessor(object):
         self.entities2id, self.relations2id = self._get_entities_and_relations_id()
         self._drug_disease_num = None
         self._drug_num = None
-        self._disease_num = None
+        self._disease_num = None 
 
     @property
     def drug_disease_num(self):
