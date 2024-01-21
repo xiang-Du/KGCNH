@@ -12,4 +12,4 @@ if your cuda is available, you can
 run ./code/main.py --gpu
 
 else 
-run ./code/main.py
+run ./code/main.py 
